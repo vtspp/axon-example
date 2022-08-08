@@ -1,0 +1,13 @@
+server:
+  port: 9090
+
+# Datasource configuration
+spring:
+  data:
+    mongodb:
+      username: root
+      password: pass
+      database: db
+      port: 27017
+      host: localhost
+      authentication-database: admin
