@@ -24,6 +24,8 @@
 
   <modules>
     <module>booking</module>
+    <module>avail</module>
+    <module>message-broker</module>
   </modules>
 
   <dependencies>
